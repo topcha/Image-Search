@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760102719355",
+    "project_id": "image-app-aee58",
+    "storage_bucket": "image-app-aee58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760102719355:android:ef939cd9d417e4a30f37de",
+        "android_client_info": {
+          "package_name": "com.example.imagesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760102719355-3jctlp83cc8h9u280nku6gjs5k7fkku7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASwnz7SZimBo6saDvAUfKGIYkPZBl0nt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760102719355-3jctlp83cc8h9u280nku6gjs5k7fkku7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
