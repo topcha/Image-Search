@@ -1,4 +1,4 @@
-# Image-Search
+# Application description and Functionality
 You can search, open(fullscreen) and download any image on your device with this application.
 
 This particular application fetches data from pixabay.com 's API by Android Networking library and displays it in RecyclerView.
